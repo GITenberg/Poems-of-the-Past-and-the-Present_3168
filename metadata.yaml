@@ -1,0 +1,30 @@
+_repo: Poems-of-the-Past-and-the-Present_3168
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: 'Title; Contents; V.R. 1819-1901; Embarcation; Departure; The Colonel''s
+  Soliloquy; The Going of the Battery; At the War Office, London; A Christmas Ghost-Story;
+  The Dead Drummer; A Wife in London; The Souls of the Slain; Song of the Soldiers''
+  Wives; The Sick God; Genoa and the Mediterranean; Shelley''s Skylark; In the Old
+  Theatre, Fiesole; Rome: On the Palatine; Rome; Rome; Rome; Lausanne; Zermatt; The
+  Bridge of Lodi; On an Invitation to the United States; The Mother Mourns; ""I Said
+  to Love""; A Commonplace Day; At a Lunar Eclipse; The Lacking Sense; To Life; Doom
+  and She; The Problem.'
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: Poems of the Past and the Present
+url: http://www.gutenberg.org/ebooks/3168
