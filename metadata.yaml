@@ -1,5 +1,8 @@
 _repo: Poems-of-the-Past-and-the-Present_3168
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 3168-h/images/coverb.jpg
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -16,6 +19,8 @@ description: 'Title; Contents; V.R. 1819-1901; Embarcation; Departure; The Colon
   Bridge of Lodi; On an Invitation to the United States; The Mother Mourns; ""I Said
   to Love""; A Commonplace Day; At a Lunar Eclipse; The Lacking Sense; To Life; Doom
   and She; The Problem.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3168#Poems-of-the-Past-and-the-Present
 gutenberg_issued: '2002-04-01'
 gutenberg_type: Text
 identifiers:
